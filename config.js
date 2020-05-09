@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Tiếng Trung Móng Cái",
+  title: "Lực Hoàng Blog",
   subtitle:
     "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   copyright: "© All rights reserved.",
@@ -26,12 +26,12 @@ module.exports = {
     },
   ],
   author: {
-    name: "Tiếng Trung Móng Cái",
-    photo: "/hoalinhhsk.jpg",
-    bio: "Chuyên đào tạo tiếng Trung giao tiếp",
+    name: "Lực Hoàng Blog",
+    photo: "/avataluc.jpg",
+    bio: "Chém gió linh tinh",
     contacts: {
       email: "",
-      facebook: "hoalinhhskmc",
+      facebook: "kenluvmc",
       telegram: "",
       twitter: "",
       github: "",
